@@ -1,0 +1,19 @@
+{
+  "name": "7.3.2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "author": "Gleb Laychenkov",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "jest": "^29.7.0",
+    "playwright": "^1.47.0"
+  },
+  "dependencies": {
+    "test": "^3.3.0"
+  }
+}
